@@ -2,7 +2,7 @@
     "name": "time",
     "short_name": "pwa",
     "description": "time",
-    "start_url": "/index.html",
+    "start_url": "https://stuartcat.github.io/Widget/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#98989a",
